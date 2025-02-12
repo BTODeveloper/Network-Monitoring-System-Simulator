@@ -51,7 +51,7 @@ Getting Started
 
 Clone the repository
 
-bashCopygit clone https://github.com/yourusername/Network-Monitoring-System-Demo.git
+bashCopygit clone https://github.com/BTODeveloper/Network-Monitoring-System-Demo.git
 
 Restore NuGet packages
 
