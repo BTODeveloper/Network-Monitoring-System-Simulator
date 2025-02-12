@@ -3,7 +3,6 @@ A demonstration dashboard showcasing network monitoring UI/UX patterns using WPF
 
 ![Screenshot 2025-02-12 145834](https://github.com/user-attachments/assets/49150dc3-57b5-4966-b514-c6e7e9a6264e)
 
-
 Overview
 Built as a proof of concept, this project demonstrates:
 
@@ -64,12 +63,6 @@ dotnet run
 Development Notes
 
 Uses MVVM pattern for clean architecture
-Implements real-time data simulation
+Implements real time data simulation
 Follows WPF best practices
 Modern UI/UX design principles
-
-Additional Resources
-
-WPF Documentation
-MVVM Pattern
-LiveCharts2
